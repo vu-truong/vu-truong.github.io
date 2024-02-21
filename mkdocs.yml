@@ -1,6 +1,6 @@
 site_name: Vu's Blog # Change this to your site name
 site_description: My Personal Website
-site_url: vu-truong.github.io # Change this to your site URL
+site_url: https://vu-truong.github.io/ # Change this to your site URL
 site_author: Vu Truong
 
 theme:
