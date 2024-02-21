@@ -5,5 +5,4 @@ hidden: true
 title: Home
 ---
 
-![[carloslab-icon-dark.png|carloslab-icon-dark.png]]
-![[carloslab-icon-dark.png|carloslab-icon-dark.png]]
+![[Attachments/discord.png|Attachments/discord.png]]
