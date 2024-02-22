@@ -6,4 +6,4 @@ title: Home
 ---
 
 
-![[Attachments/discord.png|100]]
+![[Attachments/discord.png|center|100]]
