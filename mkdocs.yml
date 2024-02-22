@@ -122,7 +122,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
-    - assets/css/image-center.css
+    - assets/css/image-alignment.css
 extra:
   SEO: assets/meta/SEO.png
   comments: False #disable comments globally
