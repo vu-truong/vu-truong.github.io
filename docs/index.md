@@ -7,4 +7,4 @@ title: Home
 
 
 ![[Attachments/discord.png|center|100]]
-![[Attachments/discord.png|right|100]]
+![[Drawing 2024-02-22 19.48.29.excalidraw|Drawing 2024-02-22 19.48.29.excalidraw]]
