@@ -1,0 +1,10 @@
+nav:
+    - index.md
+    - configuration.md
+    - publishing.md
+    - Compatibility.md
+    - Actions.md
+    - advanced_workflow.md
+    - example
+    - Code of conduct.md
+
