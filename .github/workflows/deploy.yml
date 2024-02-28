@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - obsidian-publisher-docs
     paths: 
       - 'README.md'
       - 'overrides/**'
