@@ -5,4 +5,4 @@ title: FolderA
 
 Test FolderA
 
-[index](FolderB/index.md)
+[index](../FolderB/index.md)
