@@ -1,4 +1,6 @@
 nav:
-  - index.md 
+  - index.md
+  - FolderA
+  - FolderB
   - Plugin
   - tags.md
